@@ -3,6 +3,9 @@
   "owner": {
     "name": "Test User"
   },
+  "metadata": {
+    "description": "My first marketplace"
+  },
   "plugins": [
     {
       "name": "my-first-plugin",
